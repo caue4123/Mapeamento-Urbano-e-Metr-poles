@@ -33,7 +33,8 @@ O design gráfico orienta a navegação através de marcadores de escala flutuan
 
 > **⚠️ Instrução Importante para o Estudante:** Abra o Google Earth Pro ou Web, dê zoom em uma metrópole altamente densa (como São Paulo, Nova York ou Tóquio) até que os prédios 3D fiquem visíveis. Tire um print, salve a imagem na pasta do seu repositório como `metropole.png` e certifique-se de que a linha abaixo carregará a imagem corretamente no seu GitHub.
 
-![Mapeamento de Alta Densidade Urbana](https://www.quintoandar.com.br/regioes-atendidas/sao-paulo-sp-brasil-41d49u4ekw)
+![Mapeamento de Alta Densidade Urbana](![Uploading SP.jpg…]()
+)
 
 ---
 
